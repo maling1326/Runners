@@ -1,0 +1,28 @@
+{
+    "Runners": {
+        "muchplatform_30": {
+            "merge_false": {
+                "scores": {
+                    "maliq": 37
+                }
+            },
+            "merge_true": {
+                "scores": {
+                    "maliq": 14
+                }
+            }
+        },
+        "muchplatform_60": {
+            "merge_false": {
+                "scores": {
+                    "maliq": 67
+                }
+            },
+            "merge_true": {
+                "scores": {
+                    "maliq": 96
+                }
+            }
+        }
+    }
+}
